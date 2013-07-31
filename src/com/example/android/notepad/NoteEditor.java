@@ -39,6 +39,7 @@ import android.view.MenuItem;
 import android.widget.EditText;
 
 /**
+ * author tony
  * This Activity handles "editing" a note, where editing is responding to
  * {@link Intent#ACTION_VIEW} (request to view data), edit a note
  * {@link Intent#ACTION_EDIT}, create a note {@link Intent#ACTION_INSERT}, or
